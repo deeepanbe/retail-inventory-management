@@ -75,3 +75,5 @@ data/processed/*
 *.log
 *.sqlite
 *.db
+*.pkl
+__pycache__/
